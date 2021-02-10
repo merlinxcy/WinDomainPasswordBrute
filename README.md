@@ -1,1 +1,2 @@
 # WinDomainPasswordBrute
+win domain brute
