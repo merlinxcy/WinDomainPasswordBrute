@@ -9,9 +9,6 @@ import functools
 
 dc_ip = '192.168.20.131'
 
-# user = 'administrator1'
-# password = 'BteamNo.99'
-# domain = 'paicdom'
 
 sem = asyncio.Semaphore(50)
 task_queue = asyncio.Queue()
